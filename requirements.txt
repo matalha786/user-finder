@@ -1,0 +1,8 @@
+rich
+requests
+argparse
+requests_futures
+config
+fpdf==1.7.2
+tk
+thread

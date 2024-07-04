@@ -121,7 +121,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## About
 
-User Finder Zeta is developed by Team Zeta ITSOLERA. For more information, visit our [GitHub page](https://github.com/yourusername/user-finder-zeta).
+User Finder Zeta is developed by Team Zeta ITSOLERA. For more information, visit our [GitHub page](https://github.com/matalha786).
 
 ## Acknowledgements
 
